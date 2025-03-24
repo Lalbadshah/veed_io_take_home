@@ -3,6 +3,10 @@
 - `frontend/` - Next.js frontend application
 - `backend/` - Node.js backend server
 
+## Requirements:
+- Node.js v20.11.0
+- npm 10.2.4
+
 
 ### Frontend (Next.js)
 
